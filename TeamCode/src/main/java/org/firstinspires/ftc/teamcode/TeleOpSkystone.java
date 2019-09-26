@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.Servo;
 
 
-@TeleOp(name = "Driving time", group = "EAP")
+@TeleOp(name = "Tele-Op", group = "EAP")
 public class TeleOpSkystone extends LinearOpMode {
 
     private DcMotor LeftA;
